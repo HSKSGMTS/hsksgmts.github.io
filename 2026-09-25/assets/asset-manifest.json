@@ -176,7 +176,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": -7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": true,
           "bendStartLocalZ": 25,
           "bendSlope": 0.42
@@ -188,7 +188,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": 7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": true,
           "bendStartLocalZ": 25,
           "bendSlope": 0.42
@@ -199,7 +199,7 @@
       "appearance": "ACABAS Issue 3 station render and ST-5301\u20135307 curved cladding",
       "inferred": "Poster artwork, furniture positions and A1 wing interpolation; platform dimensions from GA. Bench backs are outboard of seats, facing the carriageway.",
       "triangles": 51430,
-      "bytes": 2619852
+      "bytes": 2619840
     },
     {
       "id": "A2",
@@ -211,7 +211,7 @@
           "length": 89.6,
           "offsetZ": 9.25,
           "edgeX": -7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -223,7 +223,7 @@
           "length": 89.6,
           "offsetZ": -9.25,
           "edgeX": 7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -234,7 +234,7 @@
       "appearance": "ACABAS Issue 3 station render and ST-5301\u20135307 curved cladding",
       "inferred": "Poster artwork, furniture positions and A1 wing interpolation; platform dimensions from GA. Bench backs are outboard of seats, facing the carriageway.",
       "triangles": 57932,
-      "bytes": 2812904
+      "bytes": 2812840
     },
     {
       "id": "A3",
@@ -246,7 +246,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": -7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -258,7 +258,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": 7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -269,7 +269,7 @@
       "appearance": "ACABAS Issue 3 station render and ST-5301\u20135307 curved cladding",
       "inferred": "Poster artwork, furniture positions and A1 wing interpolation; platform dimensions from GA. Bench backs are outboard of seats, facing the carriageway.",
       "triangles": 57106,
-      "bytes": 2718200
+      "bytes": 2718136
     },
     {
       "id": "A4",
@@ -281,7 +281,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": -7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -293,7 +293,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": 7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -304,7 +304,7 @@
       "appearance": "ACABAS Issue 3 station render and ST-5301\u20135307 curved cladding",
       "inferred": "Poster artwork, furniture positions and A1 wing interpolation; platform dimensions from GA. Bench backs are outboard of seats, facing the carriageway.",
       "triangles": 54306,
-      "bytes": 2604648
+      "bytes": 2604580
     },
     {
       "id": "A5",
@@ -316,7 +316,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": -7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -328,7 +328,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": 7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -339,7 +339,7 @@
       "appearance": "ACABAS Issue 3 station render and ST-5301\u20135307 curved cladding",
       "inferred": "Poster artwork, furniture positions and A1 wing interpolation; platform dimensions from GA. Bench backs are outboard of seats, facing the carriageway.",
       "triangles": 49742,
-      "bytes": 2430812
+      "bytes": 2430744
     },
     {
       "id": "A6",
@@ -351,7 +351,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": -7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -363,7 +363,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": 7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -374,7 +374,7 @@
       "appearance": "ACABAS Issue 3 station render and ST-5301\u20135307 curved cladding",
       "inferred": "Poster artwork, furniture positions and A1 wing interpolation; platform dimensions from GA. Bench backs are outboard of seats, facing the carriageway.",
       "triangles": 57764,
-      "bytes": 2741464
+      "bytes": 2741396
     },
     {
       "id": "A7",
@@ -386,7 +386,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": -7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -398,7 +398,7 @@
           "length": 89.6,
           "offsetZ": 0,
           "edgeX": 7.05,
-          "height": 0.31,
+          "height": 0.64,
           "bent": false,
           "bendStartLocalZ": 25,
           "bendSlope": 0
@@ -409,7 +409,7 @@
       "appearance": "ACABAS Issue 3 station render and ST-5301\u20135307 curved cladding",
       "inferred": "Poster artwork, furniture positions and A1 wing interpolation; platform dimensions from GA. Bench backs are outboard of seats, facing the carriageway.",
       "triangles": 55552,
-      "bytes": 2651292
+      "bytes": 2651224
     }
   ]
 }
